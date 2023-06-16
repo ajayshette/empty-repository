@@ -30,3 +30,19 @@
 03:43:46.569 [main] INFO  api.test.userTest - ***********user is updated************
 03:43:46.572 [main] INFO  api.test.userTest - ***********deleting user************
 03:43:48.704 [main] INFO  api.test.userTest - ***********user is deleted************
+04:46:04.126 [main] INFO  api.test.userTest - *************creating user**********
+04:46:09.991 [main] INFO  api.test.userTest - *************user is created***********
+04:46:10.027 [main] INFO  api.test.userTest - **********reading user**********
+04:46:11.821 [main] INFO  api.test.userTest - ***********user read already************
+04:46:11.834 [main] INFO  api.test.userTest - ***********updating user************
+04:46:15.068 [main] INFO  api.test.userTest - ***********user is updated************
+04:46:15.098 [main] INFO  api.test.userTest - ***********deleting user************
+04:46:16.913 [main] INFO  api.test.userTest - ***********user is deleted************
+09:37:01.756 [main] INFO  api.test.userTest - *************creating user**********
+09:37:06.972 [main] INFO  api.test.userTest - *************user is created***********
+09:37:07.014 [main] INFO  api.test.userTest - **********reading user**********
+09:37:08.312 [main] INFO  api.test.userTest - ***********user read already************
+09:37:08.318 [main] INFO  api.test.userTest - ***********updating user************
+09:37:10.998 [main] INFO  api.test.userTest - ***********user is updated************
+09:37:11.012 [main] INFO  api.test.userTest - ***********deleting user************
+09:37:12.502 [main] INFO  api.test.userTest - ***********user is deleted************
